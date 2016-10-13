@@ -4,7 +4,7 @@
     "repository": "https://github.com/thorgate/slackbox",
     "keywords": ["slack", "spotify"],
     "addons": [
-        "memcachier:32"
+        "memcachier:dev"
     ],
     "env": {
         "NPM_CONFIG_PRODUCTION": {
